@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Emilio González"
+	],
+	"copyright": "Copyright © 2019, Emilio González",
+	"dependencies": {
+		"gtk-d": "~>3.8.5"
+	},
+	"description": "A cross-platform alternative to raptor",
+	"license": "MIT",
+	"name": "draptor",
+	"targetPath": "./build/"
+}
